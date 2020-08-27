@@ -6,7 +6,7 @@
 
 ## Welcome!
 
-This will be filled with more information at a later point.
+This will be filled with more information at a later point. This is work in progress.
 
 Please contact me if you have any questions.
 
